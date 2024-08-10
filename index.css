@@ -1,0 +1,71 @@
+/* #lab{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#container{
+text-align: center;
+
+
+}
+
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    background-color: chocolate;
+
+} */
+
+
+/* roller css */
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+   background-color: wheat;
+}
+
+
+
+/* #btn{
+   font-size: 2em;
+   padding: 10px;
+   border-radius: 5px;
+}
+#lab{
+    font-size: 3em;
+
+} */
+                                            /* temperaature conversation */
+/* h1{
+    color: hsl(223, 100%, 64%);
+}
+form{
+    text-align: center;
+    width: 350px;
+    background-color: hsla(268, 88%, 34%, 0.445);
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    
+    box-shadow: 5px 5px 15px  ;
+}
+#textbox{
+   border: 1.5px solid black;
+   width: 50%;
+   font-size: 1.5em;
+   border-radius: 5px;
+   margin-bottom: 15px;
+   text-align: center;
+
+}
+label{
+
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#result{
+    font-size: 1.5em;
+    font-weight: bolder;
+} */
